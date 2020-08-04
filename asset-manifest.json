@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DMDb/static/css/main.d59fcfdd.chunk.css",
+    "main.js": "/DMDb/static/js/main.f8ca1081.chunk.js",
+    "main.js.map": "/DMDb/static/js/main.f8ca1081.chunk.js.map",
+    "runtime-main.js": "/DMDb/static/js/runtime-main.3db93e00.js",
+    "runtime-main.js.map": "/DMDb/static/js/runtime-main.3db93e00.js.map",
+    "static/js/2.100e1c98.chunk.js": "/DMDb/static/js/2.100e1c98.chunk.js",
+    "static/js/2.100e1c98.chunk.js.map": "/DMDb/static/js/2.100e1c98.chunk.js.map",
+    "index.html": "/DMDb/index.html",
+    "precache-manifest.857c4d80673eea3457a433d7e6b9382f.js": "/DMDb/precache-manifest.857c4d80673eea3457a433d7e6b9382f.js",
+    "service-worker.js": "/DMDb/service-worker.js",
+    "static/css/main.d59fcfdd.chunk.css.map": "/DMDb/static/css/main.d59fcfdd.chunk.css.map",
+    "static/js/2.100e1c98.chunk.js.LICENSE.txt": "/DMDb/static/js/2.100e1c98.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DMDb/static/media/yarn.d0f84823.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db93e00.js",
+    "static/js/2.100e1c98.chunk.js",
+    "static/css/main.d59fcfdd.chunk.css",
+    "static/js/main.f8ca1081.chunk.js"
+  ]
+}
